@@ -1,8 +1,13 @@
-- issueDate: "Oct 10, 2024"
-  dueDate: "Oct 29, 2024"
-  subject: "Functional English"
-  type: "Assignment"
-  description: "Read article from newspaper and summarize."
+# YAML Structure for Assignments and Quizzes
+# Each entry represents either an assignment or a quiz.
+
+- issueDate: "Oct 10, 2024"      # The date when the assignment or quiz was issued (Format: "MMM DD, YYYY")
+  dueDate: "Oct 29, 2024"        # The date when the assignment or quiz is due (Format: "MMM DD, YYYY")
+                                 # Users must be sensitive to this date, as if the due date has passed the current date,
+                                 # the assignment or quiz will not be displayed.
+  subject: "Functional English"  # The subject of the assignment or quiz
+  type: "Assignment"             # The type of record: either "Assignment" or "Quiz"
+  description: "Read article from newspaper and summarize."  # A brief description of the assignment or quiz
 
 - issueDate: "Oct 18, 2024"
   dueDate: "Oct 29, 2024"
