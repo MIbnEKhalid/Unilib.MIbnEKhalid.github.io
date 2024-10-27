@@ -1,8 +1,19 @@
+# Book Template
+
+  # Assets/Images/BookCovers/BookCover_Template.png  Use This Url or any other book cover for new book; I will upload the book cover myself.
 - imageURL: "Assets/Images/BookCovers/UsingInformationTechnology.png"
-  name: "Using Information Technology"
+  name: "Using Information Technology" # The title of the book
   category: "CourseBooks"
-  description: "Brian K williams & Stacey Sawyer"
-  link: "https://drive.google.com/file/d/19-ySH4dlDw2jIW-cMSx2Pi1PMZSCRgKw/view?usp=sharing"
+  # The category this book belongs to
+  # Available categories are:
+  # - CourseBooks
+  # - LabManuals
+  # - CompletedAssignments
+  # - Other
+  description: "Brian K williams & Stacey Sawyer"  # A brief description of the book, if available (leave it blank)
+  link: "https://drive.google.com/file/d/19-ySH4dlDw2jIW-cMSx2Pi1PMZSCRgKw/view?usp=sharing" # A URL link to access the book
+  # (Upload the book to your Google Drive account, share it with everyone, 
+  # and paste the link of the shared file here)
 
 - imageURL: "Assets/Images/BookCovers/ThomasCalculus11thEdition.png"
   name: "Thomas Calculus 11th Edition"
@@ -27,24 +38,3 @@
   category: "CourseBooks"
   description: ""
   link: "https://drive.google.com/file/d/18wwfu9nYUjBTwFzlB4F4KOKLXAJFJtaj/view?usp=sharing"
-
-
-
-# Book Template
-
-  # Leave the imageURL as it is; I will upload the book cover yourself.
-- imageURL: "https://raw.githubusercontent.com/MIbnEKhalid/Unilib.MIbnEKhalid.github.io/main/Assets/Images/BookCovers/BookCover_Template.png"
-  name: "Book Name"  # The title of the book
-
-  category: "CourseBooks"  
-  # The category this book belongs to
-  # Available categories are:
-  # - CourseBooks
-  # - LabManuals
-  # - CompletedAssignments
-  # - Other
-
-  description: ""  # A brief description of the book, if available (leave it blank)
-  link: "link to google drive book"  # A URL link to access the book
-  # (Upload the book to your Google Drive account, share it with everyone, 
-  # and paste the link of the shared file here)
