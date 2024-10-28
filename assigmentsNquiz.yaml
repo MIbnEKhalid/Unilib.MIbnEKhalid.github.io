@@ -7,13 +7,13 @@
                                  # the assignment or quiz will not be displayed.
   subject: "Functional English"  # The subject of the assignment or quiz
   type: "Assignment"             # The type of record: either "Assignment" or "Quiz"
-  description: "Read article from newspaper and summarize."  # A brief description of the assignment or quiz
+  description: "take article from newspaper and make mindmap and pharaphase it."  # A brief description of the assignment or quiz
 
 - issueDate: "Oct 18, 2024"
   dueDate: "Nov 4, 2024"
   subject: "Islamic Studies/Ethics"
   type: "Quiz"
-  description: "Quiz 1"
+  description: "Quiz 1,2"
 
 - issueDate: "Oct 22, 2024"
   dueDate: "Oct 29, 2024"
