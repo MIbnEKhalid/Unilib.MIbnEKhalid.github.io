@@ -11,7 +11,7 @@
   # - CompletedAssignments
   # - Other
   description: "Brian K williams & Stacey Sawyer"  # A brief description of the book, if available (leave it blank)
-  link: "https://drive.google.com/file/d/19-ySH4dlDw2jIW-cMSx2Pi1PMZSCRgKw/view?usp=sharing" # A URL link to access the book
+  link: "https://drive.google.com/file/d/15-2kf11bDvZDgIDmCNpvbJ6SzIQMTg2h/view?usp=sharing" # A URL link to access the book
   # (Upload the book to your Google Drive account, share it with everyone, 
   # and paste the link of the shared file here)
 
@@ -19,22 +19,28 @@
   name: "Thomas Calculus 11th Edition"
   category: "CourseBooks"
   description: ""
-  link: "https://drive.google.com/file/d/1Nk_etxxWtsTDIdfn87ld6flc_nUw5CIM/view?usp=sharing"
+  link: "https://drive.google.com/file/d/1kTZdxoXRmVW9ugnGWH6a4J5dm31prIyx/view?usp=sharing"
 
 - imageURL: "Assets/Images/BookCovers/ThomasCalculus11thEdition.png"
   name: "Thomas Calculus 11th Edition (Solution)"
   category: "CourseBooks"
   description: ""
-  link: "https://drive.google.com/file/d/14Yf7kDL25nn6oVMy-BFpXpB_YWaqrMvF/view?usp=sharing"
+  link: "https://drive.google.com/file/d/18srp7HtGtwDCGDWtsTHqkbPy9ErEICJB/view?usp=sharing"
 
 - imageURL: "Assets/Images/BookCovers/FundamentalsofPhysics9thEdition.png"
   name: "Fundamentals of Physics 9th Edition"
   category: "CourseBooks"
   description: "Halliday & Resnick"
-  link: "https://drive.google.com/file/d/12MBSYwqn4BiV9lIk2l13dvW5ymGrebqH/view?usp=sharing"
+  link: "https://drive.google.com/file/d/1r7DC0R_Rwsw1AosPcevevucmu3VCa6Ks/view?usp=sharing"
 
 - imageURL: "Assets/Images/BookCovers/FundamentalsofPhysics9thEdition.png"
   name: "Fundamentals of Physics 9th Edition (Solution)"
   category: "CourseBooks"
   description: ""
-  link: "https://drive.google.com/file/d/18wwfu9nYUjBTwFzlB4F4KOKLXAJFJtaj/view?usp=sharing"
+  link: "https://drive.google.com/file/d/1MqSYjQAsa4J-tjwEosxY2IPtyg3YpNG6/view?usp=sharing"
+
+- imageURL: "Assets/Images/BookCovers/BookCover_Template.png"
+  name: "ICT Lab Manual 1-7"
+  category: "LabManuals"
+  description: ""
+  link: "https://drive.google.com/file/d/1Jcbd6FN_I-cxIAcZSKVd31mV06N20SfS/view?usp=sharing"
