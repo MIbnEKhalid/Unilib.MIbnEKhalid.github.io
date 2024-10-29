@@ -55,8 +55,7 @@ loadProducts();
 
 //only thoes quiz and assigments will be shown which are not due yet
 
-fetch('https://raw.githubusercontent.com/MIbnEKhalid/Unilib.MIbnEKhalid.github.io/edit/assigmentsNquiz.yaml')
-//fetch('Assets/assigmentsNquiz.yaml')
+fetch('Assets/assigmentsNquiz.yaml')
     .then(response => response.text()) // Fetch the YAML as text
     .then(yamlText => {
         const data = jsyaml.load(yamlText); // Requires jsyaml library
