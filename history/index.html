@@ -29,7 +29,7 @@
 
     // Shows All Assignments and Quizes even if due date has passed
         
-        fetch('Assets/assigmentsNquiz.yaml')
+        fetch('../Assets/assigmentsNquiz.yaml')
             .then(response => response.text()) // Fetch the YAML as text
             .then(yamlText => {
                 // Parse the YAML text into a JavaScript object
