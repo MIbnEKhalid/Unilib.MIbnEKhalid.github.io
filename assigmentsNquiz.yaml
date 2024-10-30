@@ -10,7 +10,7 @@
   description: "take article from newspaper and make mindmap and pharaphase it."  # A brief description of the assignment or quiz
 
 - issueDate: "Oct 18, 2024"
-  dueDate: "Nov 1, 2024 (Friday)"
+  dueDate: "Nov 1, 2024 (Fri)"
   subject: "Islamic Studies/Ethics"
   type: "Quiz"
   description: "Quiz 1,2"
@@ -26,3 +26,9 @@
   subject: "Calculus and Analytical Geometry"
   type: "Quiz"
   description: "Quiz Ex 2.1,2.2,2.4,2.5"
+
+- issueDate: "Nov 30, 2024"
+  dueDate: "Nov 7, 2024 (Thur)"
+  subject: "Applied Physics"
+  type: "Assignment"
+  description: "Assignment 2"
