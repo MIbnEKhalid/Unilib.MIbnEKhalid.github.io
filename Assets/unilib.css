@@ -170,10 +170,6 @@ select {
     font-size: 12px;
 }
 
-.products:hover> :not(:hover) {
-    opacity: 0.6;
-}
-
 .details-container {
     display: flex;
     flex-wrap: wrap;
