@@ -39,6 +39,12 @@
   description: ""
   link: "https://drive.google.com/file/d/1MqSYjQAsa4J-tjwEosxY2IPtyg3YpNG6/view?usp=sharing"
 
+- imageURL: "Assets/Images/BookCovers/FundamentalsofPhysics9thEdition.png"
+  name: "The A-Z Of Health And Safety"
+  category: "CourseBooks"
+  description: "Jeremy Stranks	"
+  link: "https://drive.google.com/file/d/1VX73WpZEGK1LDG6_6sY18X_xAkIajSih/view?usp=sharing"
+
 - imageURL: "Assets/Images/BookCovers/BookCover_Template.png"
   name: "ICT Lab Manual 1-7"
   category: "LabManuals"
