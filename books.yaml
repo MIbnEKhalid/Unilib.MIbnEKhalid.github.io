@@ -1,7 +1,7 @@
 # Book Template
 
   # Assets/Images/BookCovers/BookCover_Template.png  Use This Url or any other book cover for new book; I will upload the book cover myself.
-- imageURL: "Assets/Images/BookCovers/UsingInformationTechnology.png"
+- imageURL: "https://unilib.mbktechstudio.com/Assets/Images/BookCovers/UsingInformationTechnology.png"
   name: "Using Information Technology" # The title of the book
   category: "CourseBooks"
   # The category this book belongs to
@@ -15,37 +15,37 @@
   # (Upload the book to your Google Drive account, share it with everyone, 
   # and paste the link of the shared file here)
 
-- imageURL: "Assets/Images/BookCovers/ThomasCalculus11thEdition.png"
+- imageURL: "https://unilib.mbktechstudio.com/Assets/Images/BookCovers/ThomasCalculus11thEdition.png"
   name: "Thomas Calculus 11th Edition"
   category: "CourseBooks"
   description: ""
   link: "https://drive.google.com/file/d/1kTZdxoXRmVW9ugnGWH6a4J5dm31prIyx/view?usp=sharing"
 
-- imageURL: "Assets/Images/BookCovers/ThomasCalculus11thEdition.png"
+- imageURL: "https://unilib.mbktechstudio.com/Assets/Images/BookCovers/ThomasCalculus11thEdition.png"
   name: "Thomas Calculus 11th Edition (Solution)"
   category: "CourseBooks"
   description: ""
   link: "https://drive.google.com/file/d/18srp7HtGtwDCGDWtsTHqkbPy9ErEICJB/view?usp=sharing"
 
-- imageURL: "Assets/Images/BookCovers/FundamentalsofPhysics9thEdition.png"
+- imageURL: "https://unilib.mbktechstudio.com/Assets/Images/BookCovers/FundamentalsofPhysics9thEdition.png"
   name: "Fundamentals of Physics 9th Edition"
   category: "CourseBooks"
   description: "Halliday & Resnick"
   link: "https://drive.google.com/file/d/1r7DC0R_Rwsw1AosPcevevucmu3VCa6Ks/view?usp=sharing"
 
-- imageURL: "Assets/Images/BookCovers/FundamentalsofPhysics9thEdition.png"
+- imageURL: "https://unilib.mbktechstudio.com/Assets/Images/BookCovers/FundamentalsofPhysics9thEdition.png"
   name: "Fundamentals of Physics 9th Edition (Solution)"
   category: "CourseBooks"
   description: ""
   link: "https://drive.google.com/file/d/1MqSYjQAsa4J-tjwEosxY2IPtyg3YpNG6/view?usp=sharing"
 
-- imageURL: "Assets/Images/BookCovers/A-ZOHS.png"
+- imageURL: "https://unilib.mbktechstudio.com/Assets/Images/BookCovers/A-ZOHS.png"
   name: "The A-Z Of Health And Safety"
   category: "CourseBooks"
   description: "Jeremy Stranks"
   link: "https://drive.google.com/file/d/1VX73WpZEGK1LDG6_6sY18X_xAkIajSih/view?usp=sharing"
 
-- imageURL: "Assets/Images/BookCovers/BookCover_Template.png"
+- imageURL: "https://unilib.mbktechstudio.com/Assets/Images/BookCovers/BookCover_Template.png"
   name: "ICT Lab Manual 1-7"
   category: "LabManuals"
   description: ""
