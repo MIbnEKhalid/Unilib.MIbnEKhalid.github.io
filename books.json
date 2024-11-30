@@ -1,5 +1,13 @@
 [
   {
+    "imageURL": "Assets/Images/BookCovers/BookCover_Template.png",
+    "id": "0",
+    "name": "All",
+    "category": "All",
+    "description": "Folder That Includes all books, lab manuals, and additional resources",
+    "link": "https://drive.google.com/drive/folders/1z24LE6wxHcvkzTY3cGaNRJxKtKKd6W60?usp=sharing"
+  },  
+  {
     "imageURL": "Assets/Images/BookCovers/UsingInformationTechnology.png",
     "id": "1",
     "name": "Using Information Technology",
