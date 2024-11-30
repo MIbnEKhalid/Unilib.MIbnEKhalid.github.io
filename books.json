@@ -1,0 +1,50 @@
+[
+  {
+    "imageURL": "Assets/Images/BookCovers/UsingInformationTechnology.png",
+    "id": "1",
+    "name": "Using Information Technology",
+    "category": "CourseBooks",
+    "description": "Brian K williams & Stacey Sawyer",
+    "link": "https://drive.google.com/file/d/15-2kf11bDvZDgIDmCNpvbJ6SzIQMTg2h/view?usp=sharing"
+  },
+  {
+    "imageURL": "Assets/Images/BookCovers/ThomasCalculus11thEdition.png",
+    "id": "2",
+    "name": "Thomas Calculus 11th Edition",
+    "category": "CourseBooks",
+    "description": "",
+    "link": "https://drive.google.com/file/d/1kTZdxoXRmVW9ugnGWH6a4J5dm31prIyx/view?usp=sharing"
+  },
+  {
+    "imageURL": "Assets/Images/BookCovers/ThomasCalculus11thEdition.png",
+    "id": "3",
+    "name": "Thomas Calculus 11th Edition (Solution)",
+    "category": "CourseBooks",
+    "description": "",
+    "link": "https://drive.google.com/file/d/18srp7HtGtwDCGDWtsTHqkbPy9ErEICJB/view?usp=sharing"
+  },
+  {
+    "imageURL": "Assets/Images/BookCovers/FundamentalsofPhysics9thEdition.png",
+    "id": "4",
+    "name": "Fundamentals of Physics 9th Edition",
+    "category": "CourseBooks",
+    "description": "Halliday & Resnick",
+    "link": "https://drive.google.com/file/d/1r7DC0R_Rwsw1AosPcevevucmu3VCa6Ks/view?usp=sharing"
+  },
+  {
+    "imageURL": "Assets/Images/BookCovers/FundamentalsofPhysics9thEdition.png",
+    "id": "5",
+    "name": "Fundamentals of Physics 9th Edition (Solution)",
+    "category": "CourseBooks",
+    "description": "",
+    "link": "https://drive.google.com/file/d/1MqSYjQAsa4J-tjwEosxY2IPtyg3YpNG6/view?usp=sharing"
+  },
+  {
+    "imageURL": "Assets/Images/BookCovers/BookCover_Template.png",
+    "id": "6",
+    "name": "ICT Lab Manual 1-7",
+    "category": "LabManuals",
+    "description": "",
+    "link": "https://drive.google.com/file/d/1Jcbd6FN_I-cxIAcZSKVd31mV06N20SfS/view?usp=sharing"
+  }
+]
